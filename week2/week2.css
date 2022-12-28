@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    color: aqua;
+        -ms-flex-item-align: center;
+}
+h1:hover{
+    color: red;
+    background-color: aqua;
+}
+nav{
+    color:aqua;
+    text-align: center;
+}
+nav:hover{
+    color: blue;
+    background-color: rgb(123, 0, 255);
+}
+body{
+    background-color: slategrey;
+}
+p{
+    text-align: center;
+    text-decoration: underline;
+    color: aqua;
+}
+p:hover{
+    background-color: aqua;
+    color: red;
+}
+h2{
+    color: aqua;
+    text-align: center;
+    text-shadow: none;
+}
+h2:hover{
+    background-color: red;
+}
+table{
+    text-align: center;
+    color: aqua;
+}
+table:hover{
+    background-color:red;
+}
+ol{
+    text-align: center;
+}
