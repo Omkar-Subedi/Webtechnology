@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+    color:antiquewhite;
+}
+img{
+    max-width: 60%;
+    width: 750px;
+    height: 790px;
+    margin-top: -10px;
+}
+.par{
+    float: right;
+    margin-right: 200px;
+}
