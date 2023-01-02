@@ -1,5 +1,5 @@
 body{
-    background-color:peachpuff
+    background-color:skyblue;
 }
 #heading{
    color:black;
@@ -7,6 +7,10 @@ body{
    text-align: center;
    font-weight: bolder;
    margin-top: 40px;
+   border-radius: 20px;
+}
+#heading:hover{
+    background-color: red;
 }
 #one{
     font-size: 40px;
