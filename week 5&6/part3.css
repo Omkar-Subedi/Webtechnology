@@ -1,0 +1,59 @@
+body{
+    background-color:skyblue;
+}
+#heading{
+   color:black;
+   font-size: 60px;
+   text-align: center;
+   font-weight: bolder;
+   margin-top: 40px;
+   border-radius: 20px;
+}
+#heading:hover{
+    background-color: red;
+}
+#one{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    flex: 1;
+    
+    text-align: center;
+}
+#two{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    flex: 1;
+    
+    text-align: center;
+}
+#three{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    flex: 1;
+    
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 350px;
+
+}
+h1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: -30px;
+}
+h2{
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+section{
+    display: flex;
+}
